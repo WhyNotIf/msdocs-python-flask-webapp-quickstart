@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'lille-skatt'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_DDD0478E4CD14EF9A8FC18147C957438 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B2FE6C73C66A4BFB9B618CDCB44F73EF }}
